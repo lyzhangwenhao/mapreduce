@@ -22,8 +22,11 @@ public class NewTest {
         System.out.println("王斌");
         System.out.println("王斌");
         System.out.println("王斌");
+        System.out.println(11111);
 
 
+        System.out.println(989999);
+        System.out.println(555);
 
     }
 }
