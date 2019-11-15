@@ -24,5 +24,6 @@ public class CombinerCom extends Reducer<Text, IntWritable,Text,IntWritable> {
         }
         v.set(sum);
         context.write(key, v);
+        //测试
     }
 }
