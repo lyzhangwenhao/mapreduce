@@ -1,0 +1,1 @@
+/tmp/hadoop-Administrator/mapred/local/1573565616093/pd.txt

@@ -1,0 +1,3 @@
+# Project exclude paths
+/map-reduce/target/
+/videoetl/target/
