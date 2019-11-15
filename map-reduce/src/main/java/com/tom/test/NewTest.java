@@ -9,6 +9,18 @@ package com.tom.test;
  */
 public class NewTest {
     public static void main(String[] args) {
-        System.out.println("newTest");
+        System.out.println("王斌");
+        System.out.println("王斌");
+        System.out.println("王斌");
+        System.out.println("王斌");
+        System.out.println("王斌");
+        System.out.println("王斌");
+        System.out.println("王斌");
+        System.out.println("王斌");
+        System.out.println("王斌");
+        System.out.println("王斌");
+        System.out.println("王斌");
+        System.out.println("王斌");
+        System.out.println("王斌");
     }
 }
